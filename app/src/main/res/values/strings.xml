@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub Sample App</string>
+
+    <string name="auth_error_message">Failed to authorize</string>
+    <string name="search_error_message">Failed to get repositories</string>
+    <string name="history_error_message">Failed to get history</string>
+
+    <string name="repository_history_menu_item">History</string>
+    <string name="search_retry_button">Retry</string>
+    <string name="auth_button">Continue with GitHub</string>
+    <string name="search_hint">Search</string>
+
+    <string name="fragment_repositories_title">Repositories</string>
+    <string name="fragment_auth_title">Authorization</string>
+    <string name="fragment_history_title">History</string>
+</resources>
